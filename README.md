@@ -36,9 +36,9 @@
    ```
 
 ### 🧹 Cleanup
-To remove the files generated during compilation:
+To remove the files generated during compilation, including the static library from libft:
 ```bash
-make clean
+make fclean
 ```
 
 ## 🛠 Technologies
